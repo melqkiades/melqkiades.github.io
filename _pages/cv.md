@@ -18,7 +18,7 @@ Education
   Thesis: BRT Systems Optimization (in Spanish) \[[pdf](http://melqkiades.github.io/files/download/thesis/msc-thesis.pdf)\]<br>
   Francisco J. Peña, Supervisors: Prof. Antonio Jiménez Martín y Prof. Alfonso Mateos Caballero
 * **B.Eng. in Software Engineering**, Universidad del Valle, Cali, Colombia (2003 - 2008)<br>
-  Thesis: Implementation of a prototype to solve the job-shop scheduling problem using concurrent constraint programming (in Spanish) \[[pdf](http://melqkiades.github.io/files/download/thesis/beng-thesis.pdf)\]<br>
+  Thesis: Implementation of a prototype to solve the job-shop scheduling problem using concurrent constraint programming (in Spanish) \[[pdf](http://melqkiades.github.io/files/download/thesis/undergrad-thesis.pdf)\]<br>
   Francisco J. Peña, Supervisor: Prof. Juan Francisco Díaz
 
 
