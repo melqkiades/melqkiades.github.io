@@ -38,11 +38,13 @@ Research experience
 
 Lecturing experience
 ======
+* **Guest lecturer**, KTH, Stockholm, Sweden (Autumn 2021).<br>
+  * Course: Scalable Machine Learning and Deep Learning. Guest Lecturer in Transformers and Attention.
 * **Guest lecturer**, University College Dublin, Dublin, Ireland (Autumn 2019).<br>
-  * Course: Seminar Series on Data Science. Responsible for 20% of the course.<br>
+  * Course: Seminar Series on Data Science. Responsible for 20% of the course.
   * Course: Machine Learning. Guest Lecturer in Recommender Systems.
 * **Lecturer**, Software Engineering School, University of Valle, Cali, Colombia (Spring 2009).<br>
-  * Course: Introduction to object oriented programming.<br>
+  * Course: Introduction to object oriented programming.
   * Course: Algorithms and programming.
 
 
