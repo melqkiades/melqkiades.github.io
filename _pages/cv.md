@@ -32,8 +32,7 @@ Research experience
 * **Research Assistant**, Insight Centre for Data Analytics, DCU, Dublin, Ireland (July 2018 - November 2018).<br>
   Worked in a data analytics project to understand user-smartphone interactions.
 * **Undergraduate Research Student**, Technology Management Research Group, University of Valle, Cali, Colombia (May 2007 - February 2011).<br>
-  Designed and implemented an OLAP tool to query databases and uncover patterns that lead to the success of research groups. This resulted in the implementation of new policies to increase publications, reduce inactivity and create collaborations.
-  * Created a tool to visualize research collaboration networks.
+  Designed and implemented an OLAP tool to query databases and uncover patterns that lead to the success of research groups. This resulted in the implementation of new policies to increase publications, reduce inactivity and create collaborations. Additionally, created a tool to visualize research collaboration networks.
 
 
 
