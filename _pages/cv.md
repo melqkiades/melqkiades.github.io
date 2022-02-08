@@ -29,7 +29,7 @@ Work experience
   Research on generating natural language descriptions of source code using deep learning techniques. Our goal is to allow non-experts to use machine learning code.
 * **Postdoctoral Researcher**, Insight Centre for Data Analytics, UCD, Dublin, Ireland (November 2018 - October 2020).<br>
   Research on generating explanations for artificial intelligence models in the field of recommender systems using natural language processing techniques.
-* **Research Assistant**, Insight Centre for Data Analytics, DCU, Dublin, Ireland (July 2018 - November 2018).
+* **Research Assistant**, Insight Centre for Data Analytics, DCU, Dublin, Ireland (July 2018 - November 2018).<br>
   Worked in a data analytics project to understand user-smartphone interactions.
 * **Undergraduate Research Student**, Technology Management Research Group, University of Valle, Cali, Colombia (May 2007 - February 2011).<br>
   Designed and implemented an OLAP tool to query databases and uncover patterns that lead to the success of research groups. This resulted in the implementation of new policies to increase publications, reduce inactivity and create collaborations. Created a tool for data visualization to see research collaboration networks.
