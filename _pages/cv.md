@@ -49,10 +49,10 @@ Lecturing experience
 Industry experience
 ======
 * **Senior Business Intelligence Consultant**, BusinessMind, Bogota, Colombia (April 2012 - September 2012).<br>
-  * Built data warehouses for business intelligence projects.
+  Built data warehouses for business intelligence projects.
 * **Platform Consultant**, SAS, Bogota, Colombia (February 2011 - April 2012).<br>
-  * Personalized a credit risk solution for one of the biggest banks of Colombia.
+  Personalized a credit risk solution for one of the biggest banks of Colombia.
 * **Software Developer**, Omicsco, Cali, Colombia (April 2009 - February 2011).<br>
-  * Developed a bioinformatics analysis tool for pharmaceutical companies.
+  Developed a bioinformatics analysis tool for pharmaceutical companies.
 
 
