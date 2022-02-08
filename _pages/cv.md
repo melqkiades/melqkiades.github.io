@@ -56,8 +56,3 @@ Industry experience
   Developed a bioinformatics analysis tool for pharmaceutical companies.
 
 
-  
-Skills
-======
-* 
-
