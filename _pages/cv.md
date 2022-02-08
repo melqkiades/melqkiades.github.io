@@ -46,7 +46,7 @@ Lecturing experience
   Course: Algorithms and programming.
 
 
-Professional experience
+Industry experience
 ======
 * **Senior Business Intelligence Consultant**, BusinessMind, Bogota, Colombia (April 2012 - September 2012).<br>
   Built data warehouses for business intelligence projects.
