@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computer Science**, University College Cork, Cork, Ireland (2014 - 2019)
+* **Ph.D. in Computer Science**, University College Cork, Cork, Ireland (2014 - 2019)<br>
   Thesis: Rich-context: an unsupervised context-driven recommender system based on user reviews
 * M.Sc. in Artificial Intelligence, Universidad Politécnica de Madrid, Madrid (2012 - 2013)
 
