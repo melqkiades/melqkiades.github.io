@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Computer Science**, University College Cork, Cork, Ireland (2014 - 2019)<br>
-  Thesis: Rich-context: an unsupervised context-driven recommender system based on user reviews<br>
-  Francisco J. Peña, Supervisor: Derek Bridge, Oponent: Markus Zanker \[[pdf](http://melqkiades.github.io/files/download/thesis/phd-thesis.pdf)\]
+  Thesis: Rich-context: an unsupervised context-driven recommender system based on user reviews \[[pdf](http://melqkiades.github.io/files/download/thesis/phd-thesis.pdf)\]<br>
+  Francisco J. Peña, Supervisor: Derek Bridge, Oponent: Markus Zanker
 * **M.Sc. in Artificial Intelligence**, Universidad Politécnica de Madrid, Madrid (2012 - 2013)<br>
-  Thesis: BRT Systems Optimization (in Spanish) \[[pdf](http://melqkiades.github.io/files/download/thesis/msc-thesis.pdf)\]
+  Thesis: BRT Systems Optimization (in Spanish) \[[pdf](http://melqkiades.github.io/files/download/thesis/msc-thesis.pdf)\]<br>
   Francisco J. Peña, Supervisors: Antonio Jiménez Martín y Alfonso Mateos Caballero
 
 Work experience
