@@ -23,9 +23,9 @@ Scholarships
 Awards
 ======
 * **Best Paper Award**.<br>
-  Insight Student conference 2015.
+  [Insight Centre for Data Analytics](https://www.insight-centre.org/) Student conference 2015.
 * **Best Poster Award**.<br>
-  Insight Student conference 2015.
+  [Insight Centre for Data Analytics](https://www.insight-centre.org/) Student conference 2015.
 
 
 
