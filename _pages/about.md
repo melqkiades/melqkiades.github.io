@@ -16,3 +16,4 @@ My research interests include:
 * Computer Vision.
 * Deep Learning.
 * Recommender Systems.
+* Remote Sensing.
