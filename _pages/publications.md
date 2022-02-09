@@ -18,7 +18,7 @@ Conferences and Workshops
 ======
 * **CoCluBERT: Clustering Machine Learning Source Code** \[[pdf](http://melqkiades.github.io/files/download/papers/coclubert-icmla-2021.pdf)\]<br>
   Marcus Hägglund, Francisco J. Peña, Sepideh Pashami, Ahmad Al-Shishtawy, and Amir H. Payberah, The IEEE International Conference on Machine Learning and Applications ([ICMLA](https://www.icmla-conference.org/icmla21/)), Virtual, December 2021.
-* Combining Rating and Review Data by Initializing Latent Factor Models with Topic Models for Top-N Recommendation** \[[pdf](http://melqkiades.github.io/files/download/papers/topic_initialization-recsys-2020.pdf)\]<br>
+* **Combining Rating and Review Data by Initializing Latent Factor Models with Topic Models for Top-N Recommendation** \[[pdf](http://melqkiades.github.io/files/download/papers/topic_initialization-recsys-2020.pdf)\]<br>
   Francisco J. Peña, Diarmuid O’Reilly-Morgan, Elias Z. Tragos, Neil Hurley, Erika Duriakova, Barry Smyth, and Aonghus Lawlor, Fourteenth ACM Conference on Recommender Systems ([RecSys](https://recsys.acm.org/recsys20/)), Virtual, September 2020.
 * **PDMFRec: A Decentralised Matrix Factorisation with Tunable User-centric Privacy** \[[pdf](http://melqkiades.github.io/files/download/papers/pdfmrec-recsys-2019.pdf)\]<br>
   Erika Duriakova, Elias Z Tragos, Barry Smyth, Neil Hurley, Francisco J Peña, Panagiotis Symeonidis, James Geraci, and Aonghus Lawlor, Thirteenth ACM Conference on Recommender Systems ([RecSys](https://recsys.acm.org/recsys19/)), Copenhagen, Denmark, September 2019.
