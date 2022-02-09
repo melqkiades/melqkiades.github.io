@@ -11,7 +11,7 @@ author_profile: true
 Research Grants
 ======
 * **Digital Futures Postdoctoral Fellowship**.<br>
-  Funded by the [Digital Futures Research Centre](https://www.digitalfutures.kth.se/), (2,000,000 SEK), 2021-2023.
+  Funded by the [Digital Futures Research Centre](https://www.digitalfutures.kth.se/), (2,000,000 SEK), 2022-2024.
 
 
 Scholarships
