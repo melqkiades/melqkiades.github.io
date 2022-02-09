@@ -20,6 +20,8 @@ Scholarships
   Funded by the [ACM Conference on Recommender Systems](https://recsys.acm.org/), (1,500 USD), 2017.
 * **Talento Digital scholarship for M.Sc. studies overseas**.<br>
   Funded by the [Talento Digital](http://www.talentodigital.gov.co/) Program. (30,000 EUR), 2012-2013
+* **Seven scholarships for academic performance during the undergrad studies**.<br>
+  Funded by [Universidad del Valle](https://www.univalle.edu.co/) (1,500 EUR/each. 10,500 EUR total)
 
 
 Awards
