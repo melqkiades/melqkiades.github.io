@@ -12,6 +12,8 @@ Research Grants
 ======
 * **Digital Futures Postdoctoral Fellowship**.<br>
   Funded by the [Digital Futures Research Centre](https://www.digitalfutures.kth.se/), (2,000,000 SEK), 2022-2024.
+* **Bolin Centre for Climate Research Call Research Theme 2: Water, Biogeochemistry and Climate**.<br>
+  Funding to buy a GPU server to run machine learning models. Funded by the [Bolin Centre for Climate Research](https://bolin.su.se/), (78,000 SEK), 2022.
 
 
 Scholarships
