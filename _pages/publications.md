@@ -16,7 +16,7 @@ Journals
 
 Conferences and Workshops
 ======
-* **CoCluBERT: Clustering Machine Learning Source Code** \[[pdf](http://melqkiades.github.io/files/download/papers/siambert-sais-2022.pdf)\]<br>
+* **SiamBERT: Siamese Bert-based Code Search** \[[pdf](http://melqkiades.github.io/files/download/papers/siambert-sais-2022.pdf)\]<br>
   Francisco J. Peña, Angel L. Gonzalez, Sepideh Pashami, Ahmad Al-Shishtawy, and Amir H. Payberah, 34th Swedish Artificial Intelligence Society annual workshop ([SAIS](https://www.ri.se/en/sais-2022)), Stockholm, Sweden, June 2022.
 * **CoCluBERT: Clustering Machine Learning Source Code** \[[pdf](http://melqkiades.github.io/files/download/papers/coclubert-icmla-2021.pdf)\]<br>
   Marcus Hägglund, Francisco J. Peña, Sepideh Pashami, Ahmad Al-Shishtawy, and Amir H. Payberah, The IEEE International Conference on Machine Learning and Applications ([ICMLA](https://www.icmla-conference.org/icmla21/)), Virtual, December 2021.
