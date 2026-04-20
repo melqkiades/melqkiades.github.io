@@ -9,7 +9,8 @@ author_profile: true
 
 Teaching
 ======
-* [Systems for Scalable Machine Learning](https://fid3024.github.io/), [KTH Royal Institute of Technology](https://www.kth.se/), Stockholm, Sweden, 2021 (Guest Lecturer).
+* [Advanced Machine Learning for Data-driven-Health](https://www.kth.se/student/kurser/kurs/CM2026?l=en), [KTH Royal Institute of Technology](https://www.kth.se/), Stockholm, Sweden, 2026.
+* [Software Engineering, Project Course](https://www.kth.se/student/kurser/kurs/HI1036?l=en), [KTH Royal Institute of Technology](https://www.kth.se/), Stockholm, Sweden, 2025.
 * [Seminar Series on Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=COMP41700), [University College Dublin](https://www.ucd.ie/), Dublin, Ireland, 2019 (Responsible for 20% of the course).
 * [Machine Learning](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=COMP47490), [University College Dublin](https://www.ucd.ie/), Dublin, Ireland, 2019 (Guest Lecturer).
 * [Introduction to Object Oriented Programming](https://drive.google.com/file/d/0BzEbP3CV_6GhZG42TjltWHZIbVE/view?resourcekey=0-8XJHOdJ4SNTnuiR1pS6Oeg), [Universidad del Valle](https://www.univalle.edu.co/), Cali, Colombia, 2009.
