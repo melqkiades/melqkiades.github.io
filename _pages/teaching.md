@@ -25,11 +25,11 @@ Master Students
 * [Helena Chamberlain Alvarado](https://se.linkedin.com/in/helena-chamberlain-alvarado), KTH, Sweden, 2026 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
 * [Miguel Caetano Nunes](https://pt.linkedin.com/in/miguel-caetano-nunes), KTH / Karolinska Institute / Stockholm University, Sweden, 2026 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
 * [Joel Sundin](https://se.linkedin.com/in/joel-sundin), Uppsala University, Sweden, 2026 (co-supervised with [Tania Costa](https://ki.se/en/people/tania-costa) and [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
-* [Xu Zuo](), KTH, Sweden, 2026 (co-supervised with [Silun Zhang](https://www.kth.se/profile/silunz?l=en)).
+* [Xu Zuo](https://se.linkedin.com/in/xu-zuo-ba4b23292), KTH, Sweden, 2026 (co-supervised with [Silun Zhang](https://www.kth.se/profile/silunz?l=en)).
 * [Yuyun Pan](https://www.linkedin.com/in/yuyunpan-474587292/), Stockholm University, Sweden, 2025 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).<br>
   Machine Learning for Liver Fibrosis Assessment Using Sirius Red-Stained Pathology Slides \[[pdf](/files/download/students/yuyun_pan_master_thesis.pdf)\].
 * [Johanna Hansen](https://www.linkedin.com/in/johanna-hansen-01692316a/), KTH, Sweden, 2023.<br>
-  Delineation of vegetated water through pre-trained convolutional networks \[[pdf](/files/download/students/ioannis_iakovidis_master_thesis.pdf)\].
+  Delineation of vegetated water through pre-trained convolutional networks \[[pdf](/files/download/students/johanna_hansen_master_thesis.pdf)\].
 * [Ezio Cristofolu](https://se.linkedin.com/in/eziocristofoli), KTH, Sweden, 2023.<br>
   Using Satellite Images and Deep Learning to Detect Water Hidden Under the Vegetation \[[pdf](/files/download/students/ezio_cristofoli_master_thesis.pdf)\].
 * [Ioannis Iakovidis](https://www.kth.se/profile/iiak), KTH, Sweden, 2023.<br>
