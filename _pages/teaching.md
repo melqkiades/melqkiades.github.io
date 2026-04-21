@@ -19,7 +19,7 @@ Teaching
 
 Master Students
 ======
-* [Johnathan Axelsson](https://www.linkedin.com/in/jonathan-axelsson/), Chalmers University of Technology, Sweden, 2026.
+* [Jonathan Axelsson](https://www.linkedin.com/in/jonathan-axelsson/), Chalmers University of Technology, Sweden, 2026.
 * [Lucas Werelius](https://se.linkedin.com/in/lucas-werelius-2a7b90207), KTH, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
 * [Heqiao Wang](https://www.linkedin.com/in/heqiao/), KTH / Universidad Politécnica de Madrid, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
 * [Helena Chamberlain Alvarado](https://se.linkedin.com/in/helena-chamberlain-alvarado), KTH, Sweden, 2026 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
