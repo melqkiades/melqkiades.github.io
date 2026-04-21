@@ -19,6 +19,14 @@ Teaching
 
 Master Students
 ======
+* [Yuyun Pan](https://www.linkedin.com/in/yuyunpan-474587292/), Stockholm University, Sweden, 2025.<br>
+  Machine Learning for Liver Fibrosis Assessment Using Sirius Red-Stained Pathology Slides \[[pdf](/files/download/students/yuyun_pan_master_thesis.pdf)\].
+* [Johanna Hansen](https://www.linkedin.com/in/johanna-hansen-01692316a/), KTH, Sweden, 2023.<br>
+  Delineation of vegetated water through pre-trained convolutional networks \[[pdf](/files/download/students/ioannis_iakovidis_master_thesis.pdf)\].
+* [Ezio Cristofolu](https://se.linkedin.com/in/eziocristofoli), KTH, Sweden, 2023.<br>
+  Using Satellite Images and Deep Learning to Detect Water Hidden Under the Vegetation \[[pdf](/files/download/students/ezio_cristofoli_master_thesis.pdf)\].
+* [Ioannis Iakovidis](https://www.kth.se/profile/iiak), KTH, Sweden, 2023.<br>
+  Using Satellite Images And Self-supervised Deep Learning To Detect Water Hidden Under Vegetation \[[pdf](/files/download/students/ioannis_iakovidis_master_thesis.pdf)\].
 * [Robert-Andrei Damian](https://fr.linkedin.com/in/damian-robert), KTH, Sweden, 2022.<br>
   Finding duplicate offers in the online marketplace catalogue using transformer based methods\[[pdf](/files/download/students/robert_andrei_damian_master_thesis.pdf)\].
 * [Angel Luis Gonzalez](https://www.linkedin.com/in/angel-luis-gonzalez-lopez/), KTH and [RISE](https://www.ri.se/en), Sweden, 2021 (cosupervised with [Amir H. Payberah](https://www.kth.se/profile/payberah?l=en)).<br>
