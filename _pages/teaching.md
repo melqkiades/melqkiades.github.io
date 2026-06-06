@@ -23,7 +23,6 @@ Master Students
 * [Lucas Werelius](https://se.linkedin.com/in/lucas-werelius-2a7b90207), KTH, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
 * [Heqiao Wang](https://www.linkedin.com/in/heqiao/), KTH / Universidad Politécnica de Madrid, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
 * [Helena Chamberlain Alvarado](https://se.linkedin.com/in/helena-chamberlain-alvarado), KTH, Sweden, 2026 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
-* [Miguel Caetano Nunes](https://pt.linkedin.com/in/miguel-caetano-nunes), KTH / Karolinska Institute / Stockholm University, Sweden, 2026 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
 * [Joel Sundin](https://se.linkedin.com/in/joel-sundin), Uppsala University, Sweden, 2026 (co-supervised with [Tania Costa](https://ki.se/en/people/tania-costa) and [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
 * [Xu Zuo](https://se.linkedin.com/in/xu-zuo-ba4b23292), KTH, Sweden, 2026 (co-supervised with [Silun Zhang](https://www.kth.se/profile/silunz?l=en)).
 * [Yuyun Pan](https://www.linkedin.com/in/yuyunpan-474587292/), Stockholm University, Sweden, 2025 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).<br>
