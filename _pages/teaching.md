@@ -29,6 +29,7 @@ Master Students
 * [Jonathan Axelsson](https://www.linkedin.com/in/jonathan-axelsson/), Chalmers University of Technology, Sweden, 2026 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
 * [Lucas Werelius](https://se.linkedin.com/in/lucas-werelius-2a7b90207), KTH, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
 * [Xu Zuo](https://se.linkedin.com/in/xu-zuo-ba4b23292), KTH, Sweden, 2026 (co-supervised with [Silun Zhang](https://www.kth.se/profile/silunz?l=en)).
+* [Carolina Zetterblad](https://www.linkedin.com/in/carolina-zetterblad-50a830114/), KTH, Sweden, 2026.
 * [Helena Chamberlain Alvarado](https://se.linkedin.com/in/helena-chamberlain-alvarado), KTH, Sweden, 2026 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).<br>
   Quantifying Fibrosis for Staging Metabolic Dysfunction-Associated Steatotic Liver Disease from Hispathology Images using Deep Learning \[[pdf](/files/download/students/helena_chamberlain_master_thesis.pdf)\].
 * [Joel Sundin](https://se.linkedin.com/in/joel-sundin), Uppsala University, Sweden, 2026 (co-supervised with [Tania Costa](https://ki.se/en/people/tania-costa) and [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
