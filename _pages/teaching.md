@@ -17,16 +17,25 @@ Teaching
 * [Algorithms and Programming](https://drive.google.com/file/d/0B4MYckRwqozAcHNka1lUQnMwanNOR25PbFJsMmI5b2I0RjZz/view?resourcekey=0-G-2SMjBgECyPLeZWLO9Q0w), [Universidad del Valle](https://www.univalle.edu.co/), Cali, Colombia, 2009.
 
 
+PhD Students
+======
+* [Francesca Visalli](https://www.linkedin.com/in/francesca-visalli-1a1508387/), KTH, Sweden, 2031 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi) and [Matilda Larsson](https://www.kth.se/profile/matil)).
+
 Master Students
 ======
-* [Jonathan Axelsson](https://www.linkedin.com/in/jonathan-axelsson/), Chalmers University of Technology, Sweden, 2026.
+* [Marina Burgos Martín](https://www.linkedin.com/in/marina-burgos-martin/), KTH, Sweden, 2027 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
+* Filip Forsberg, KTH, Sweden, 2027 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
+* [Victor Engdahl](https://www.linkedin.com/in/victor-engdahl/), KTH, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
+* [Jonathan Axelsson](https://www.linkedin.com/in/jonathan-axelsson/), Chalmers University of Technology, Sweden, 2026 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
 * [Lucas Werelius](https://se.linkedin.com/in/lucas-werelius-2a7b90207), KTH, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
-* [Heqiao Wang](https://www.linkedin.com/in/heqiao/), KTH / Universidad Politécnica de Madrid, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
-  Transcriptomic Prediction of Five-Year Disease-Control Failure Across Nine TCGA Cohorts \[[pdf](/files/download/students/heqiao_want_master_thesis.pdf)\].
+* [Xu Zuo](https://se.linkedin.com/in/xu-zuo-ba4b23292), KTH, Sweden, 2026 (co-supervised with [Silun Zhang](https://www.kth.se/profile/silunz?l=en)).
 * [Helena Chamberlain Alvarado](https://se.linkedin.com/in/helena-chamberlain-alvarado), KTH, Sweden, 2026 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).<br>
   Quantifying Fibrosis for Staging Metabolic Dysfunction-Associated Steatotic Liver Disease from Hispathology Images using Deep Learning \[[pdf](/files/download/students/helena_chamberlain_master_thesis.pdf)\].
 * [Joel Sundin](https://se.linkedin.com/in/joel-sundin), Uppsala University, Sweden, 2026 (co-supervised with [Tania Costa](https://ki.se/en/people/tania-costa) and [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
-* [Xu Zuo](https://se.linkedin.com/in/xu-zuo-ba4b23292), KTH, Sweden, 2026 (co-supervised with [Silun Zhang](https://www.kth.se/profile/silunz?l=en)).
+* [Lucia Karens](https://www.linkedin.com/in/lucia-karens-820185264/), KTH, Sweden, 2026.
+  Detecting Wetlands Using Self-Supervised Convolutional Neural Networks With Data Normalization  \[[pdf](/files/download/students/lucia_karens_master_thesis.pdf)\].
+* [Heqiao Wang](https://www.linkedin.com/in/heqiao/), KTH / Universidad Politécnica de Madrid, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
+  Transcriptomic Prediction of Five-Year Disease-Control Failure Across Nine TCGA Cohorts \[[pdf](/files/download/students/heqiao_want_master_thesis.pdf)\].
 * [Yuyun Pan](https://www.linkedin.com/in/yuyunpan-474587292/), Stockholm University, Sweden, 2025 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).<br>
   Machine Learning for Liver Fibrosis Assessment Using Sirius Red-Stained Pathology Slides \[[pdf](/files/download/students/yuyun_pan_master_thesis.pdf)\].
 * [Johanna Hansen](https://www.linkedin.com/in/johanna-hansen-01692316a/), KTH, Sweden, 2023.<br>
