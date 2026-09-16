@@ -32,7 +32,8 @@ Master Students
 * [Carolina Zetterblad](https://www.linkedin.com/in/carolina-zetterblad-50a830114/), KTH, Sweden, 2026.
 * [Helena Chamberlain Alvarado](https://se.linkedin.com/in/helena-chamberlain-alvarado), KTH, Sweden, 2026 (co-supervised with [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).<br>
   Quantifying Fibrosis for Staging Metabolic Dysfunction-Associated Steatotic Liver Disease from Hispathology Images using Deep Learning \[[pdf](/files/download/students/helena_chamberlain_master_thesis.pdf)\].
-* [Joel Sundin](https://se.linkedin.com/in/joel-sundin), Uppsala University, Sweden, 2026 (co-supervised with [Tania Costa](https://ki.se/en/people/tania-costa) and [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).
+* [Joel Sundin](https://se.linkedin.com/in/joel-sundin), Uppsala University, Sweden, 2026 (co-supervised with [Tania Costa](https://ki.se/en/people/tania-costa) and [Fahim Ebrahimi](https://ki.se/en/people/fahim-ebrahimi)).<br>
+  Cross-Modality Image Translation from Routine Brightfield Slides to Synthetic cPOL Using Deep Learning \[[pdf](/files/download/students/joel_sundin_master_thesis.pdf)\].
 * [Lucia Karens](https://www.linkedin.com/in/lucia-karens-820185264/), KTH, Sweden, 2026.
   Detecting Wetlands Using Self-Supervised Convolutional Neural Networks With Data Normalization  \[[pdf](/files/download/students/lucia_karens_master_thesis.pdf)\].
 * [Heqiao Wang](https://www.linkedin.com/in/heqiao/), KTH / Universidad Politécnica de Madrid, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
