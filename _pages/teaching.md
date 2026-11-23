@@ -37,7 +37,7 @@ Master Students
 * [Lucia Karens](https://www.linkedin.com/in/lucia-karens-820185264/), KTH, Sweden, 2026.
   Detecting Wetlands Using Self-Supervised Convolutional Neural Networks With Data Normalization  \[[pdf](/files/download/students/lucia_karens_master_thesis.pdf)\].
 * [Heqiao Wang](https://www.linkedin.com/in/heqiao/), KTH / Universidad Politécnica de Madrid, Sweden, 2026 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).
-  Transcriptomic Prediction of Five-Year Disease-Control Failure Across Nine TCGA Cohorts \[[pdf](/files/download/students/heqiao_want_master_thesis.pdf)\].
+  Transcriptomic Prediction of Five-Year Disease-Control Failure Across Nine TCGA Cohorts \[[pdf](/files/download/students/heqiao_wang_master_thesis.pdf)\].
 * [Yuyun Pan](https://www.linkedin.com/in/yuyunpan-474587292/), Stockholm University, Sweden, 2025 (co-supervised with [Ninib Baryawno](https://ki.se/en/people/n-baryawno)).<br>
   Machine Learning for Liver Fibrosis Assessment Using Sirius Red-Stained Pathology Slides \[[pdf](/files/download/students/yuyun_pan_master_thesis.pdf)\].
 * [Johanna Hansen](https://www.linkedin.com/in/johanna-hansen-01692316a/), KTH, Sweden, 2023.<br>
